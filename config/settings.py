@@ -64,7 +64,4 @@ SUCCESS_MESSAGES = {
 }
 
 # Webhook configuration for Vercel
-VERCEL_CONFIG = {
-    "runtime": "python3.9",
-    "maxDuration": 30,
-}
+VERCEL_CONFIG = {}
